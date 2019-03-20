@@ -1,6 +1,6 @@
 #coding=utf-8
 #Date 2017.03.12
-#毕业设计程序实现
+
 
 from numpy import *
 import matplotlib.pyplot as plt
